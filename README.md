@@ -1,6 +1,6 @@
 # mlops-05-monitoring
 
-### Goal HM4
+### Goal HM5
 Familiarize users with monitoring for ML batch services, using PostgreSQL database to store metrics and Grafana to visualize them.
 
 ### Learnings:
